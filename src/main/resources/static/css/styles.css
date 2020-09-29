@@ -24,3 +24,53 @@ table {
             padding: 10px;
             text-align: center;
 }
+
+
+.square {
+    background: #123;
+    width: 50px;
+    height: 50px;
+}
+
+.square3 {
+    background: #345;
+    width: 50px;
+    height: 50px;
+}
+
+.square4 {
+    background: #8234;
+    width: 50px;
+    height: 50px;
+}
+
+.square5 {
+    background: #9123;
+    width: 50px;
+    height: 50px;
+}
+
+.square6 {
+    background: #7123;
+    width: 50px;
+    height: 50px;
+}
+
+.square7 {
+    background: #8354;
+    width: 50px;
+    height: 50px;
+}
+
+.square8 {
+    background: #2573;
+    width: 50px;
+    height: 50px;
+}
+
+.square9 {
+    background: #734;
+    width: 50px;
+    height: 50px;
+}
+
